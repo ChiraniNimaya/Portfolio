@@ -1,2 +1,2 @@
 # Portfolio
-Personal portfolio
+Personal portfolio in progress using vue.js and bootstrap
